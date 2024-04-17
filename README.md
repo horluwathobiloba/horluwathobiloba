@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Nice to meet you!
+
+I am Kehinde Janet Oluwatobiloba. I write HTML, CSS and JavaScript.
+
+You can reach me [on twitter](https://twitter.com/KehindeJanetOl1)
+
+Looking Forward to meeting you!
+
+
 <!--
 **horluwathobiloba/horluwathobiloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
