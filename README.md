@@ -2,7 +2,7 @@
 
 Nice to meet you!
 
-I am Kehinde Janet Oluwatobiloba. I write HTML, CSS and JavaScript.
+I am Janet Oluwatobiloba Kehinde. I write HTML, CSS and JavaScript.
 
 You can reach me [on twitter](https://twitter.com/KehindeJanetOl1)
 
